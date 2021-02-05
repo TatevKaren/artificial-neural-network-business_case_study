@@ -7,6 +7,7 @@
 
 # Case Study: Bank's Customer Churn Rate Prediction 
 File names: 
+ - Artificial_Neural_Networks_Case_Study.pdf
  - Artificial_Neural_Network_Case_Study_data.csv
  - Artificial_Neural_Network_Case_Study.py 
  - ANN_Case_Study_Sample_Output_1.png
@@ -30,4 +31,5 @@ The combination of the Rectifier and Sigmoid activation functions is quite popul
    - ANN model training and testing: Artificial_Neural_Network_Case_Study.py
    
  # Case study paper
+   - ANN case study paper: Artificial_Neural_Networks_Case_Study.pdf
  
