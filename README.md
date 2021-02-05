@@ -5,8 +5,11 @@
   </a>
 </p>
 
-Case Study: Bank's Customer Churn Rate Prediction 
-File names: Artificial_Neural_Network_Case_Study.py, , ANN_Case_Study_Sample_Output_1.png, ANN_Case_Study_Sample_Output_2.png
+# Case Study: Bank's Customer Churn Rate Prediction 
+File names: 
+ - Artificial_Neural_Network_Case_Study.py 
+ - ANN_Case_Study_Sample_Output_1.png
+ - ANN_Case_Study_Sample_Output_2.png
 
 # About 
 In this Case Study we predict the churning rate of the customers from the bank. In order to learn about bank's customers we will make use of one pf the Deep Learning techniques, the Artificial Neural Networks (ANN).
