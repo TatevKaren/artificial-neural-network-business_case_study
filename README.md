@@ -5,7 +5,7 @@
   </a>
 </p>
 
-# Case Study: Bank's Customer Churn Rate Prediction 
+# Case Study: Customer Churn Rate Prediction 
 File names: 
  - Artificial_Neural_Networks_Case_Study.pdf
  - Artificial_Neural_Network_Case_Study_data.csv
