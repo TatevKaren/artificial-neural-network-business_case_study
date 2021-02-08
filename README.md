@@ -30,12 +30,11 @@ Moreover, we will use popular Python libraries such as Tensorflow, Keras and Mac
 The combination of the Rectifier and Sigmoid activation functions is quite popular and this exact combination will be used in this case study as well, given that our goal is to estimate the probability that the customer will leave the bank. Given that the output variable is binary we use cost function Binary Cross Entroopy.
    - ANN model training and testing: Artificial_Neural_Network_Case_Study.py
    
- # Case study paper
+# Case study paper
    - ANN case study paper: Artificial_Neural_Networks_Case_Study.pdf
    
    
 ## References
-
 
 @article{Xavier2011,
   title = {Deep Sparse Rectifier Neural Networks}, 
