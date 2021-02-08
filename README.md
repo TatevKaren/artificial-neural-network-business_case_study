@@ -35,16 +35,9 @@ The combination of the Rectifier and Sigmoid activation functions is quite popul
    
    
 ## References
+ - Glorot,  X.,  Bordes,  A.,  Bengio,  Y.  (2011).  Deep  Sparse  Rectifier  Neural  NetworksInternational Conference on Artificial  Intelligence and Statistics. Proceedings of the Fourteenth International Conference on Artificial Intelligence and Statistics, 15(15), 315 - 323
+ - Rogerson, R. J. (2015). Adam:  A Method For Stochastic Optimization. 3rd Interna-tional Conference on Learning Representations (ICLR2015), 36(1), 1–13
+ - LeCun, Y., Bengio, Y., Hinton, G., (2015). Deep learning.Nature, 521, 436 – 444
+ -  Wiegerinck, W. and Komoda, A. and Heskes, T. (1999). Stochastic dynamics of learn-ing  with  momentum  in  neural  networks. Journal  of  Physics  A:  Mathematical  andGeneral, 27(13), 4425 – 4425
 
-@article{Xavier2011,
-  title = {Deep Sparse Rectifier Neural Networks}, 
-  author = {Xavier Glorot and Antoine Bordes and Yoshua Bengio}, 
-  booktitle =  {Proceedings of the Fourteenth International Conference on Artificial Intelligence and Statistics}, 
-  pages = {315--323}, 
-  year = {2011},
-  volume = {15}, 
-  series = {Proceedings of Machine Learning Research}
-  publisher = {JMLR Workshop and Conference Proceedings}, 
-  pdf = {http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf}
-}
- 
+
