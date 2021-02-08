@@ -32,4 +32,20 @@ The combination of the Rectifier and Sigmoid activation functions is quite popul
    
  # Case study paper
    - ANN case study paper: Artificial_Neural_Networks_Case_Study.pdf
+   
+   
+## References
+
+
+@article{Xavier2011,
+  title = {Deep Sparse Rectifier Neural Networks}, 
+  author = {Xavier Glorot and Antoine Bordes and Yoshua Bengio}, 
+  booktitle =  {Proceedings of the Fourteenth International Conference on Artificial Intelligence and Statistics}, 
+  pages = {315--323}, 
+  year = {2011},
+  volume = {15}, 
+  series = {Proceedings of Machine Learning Research}
+  publisher = {JMLR Workshop and Conference Proceedings}, 
+  pdf = {http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf}
+}
  
