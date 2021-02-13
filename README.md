@@ -41,7 +41,7 @@ The combination of the Rectifier and Sigmoid activation functions is quite popul
 
 <p align="left">
 <img src="ANN_Case_Study_Sample_Output_2.png?raw=true"
-  alt=""width="30" height="300">
+  alt=""width="50" height="400">
 </p>
 
 
