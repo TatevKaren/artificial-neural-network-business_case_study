@@ -27,7 +27,14 @@ The combination of the Rectifier and Sigmoid activation functions is quite popul
  - Batch size: 25
  - **ANN model training and testing:** Artificial_Neural_Network_Case_Study.py
       
-   
+
+## Sample outputs (screenshots)
+Simple-artificial-neural-network/
+<p align="left">
+<img src="ANN_Case_Study_Sample_Output_1.png?raw=true"
+  alt=""width="600" height="250">
+</p>
+
 **References**
  - Glorot,  X.,  Bordes,  A.,  Bengio,  Y.  (2011).  Deep  Sparse  Rectifier  Neural  NetworksInternational Conference on Artificial  Intelligence and Statistics. Proceedings of the Fourteenth International Conference on Artificial Intelligence and Statistics, 15(15), 315 - 323
  - Rogerson, R. J. (2015). Adam:  A Method For Stochastic Optimization. 3rd Interna-tional Conference on Learning Representations (ICLR2015), 36(1), 1–13
