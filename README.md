@@ -29,11 +29,21 @@ The combination of the Rectifier and Sigmoid activation functions is quite popul
       
 
 ## Sample outputs (screenshots)
-Simple-artificial-neural-network/
+
+**Training the ANN model**
+
 <p align="left">
 <img src="ANN_Case_Study_Sample_Output_1.png?raw=true"
-  alt=""width="600" height="250">
+  alt=""width="700" height="350">
 </p>
+
+**True versus Predicted values**
+
+<p align="left">
+<img src="ANN_Case_Study_Sample_Output_2.png?raw=true"
+  alt=""width="700" height="350">
+</p>
+
 
 **References**
  - Glorot,  X.,  Bordes,  A.,  Bengio,  Y.  (2011).  Deep  Sparse  Rectifier  Neural  NetworksInternational Conference on Artificial  Intelligence and Statistics. Proceedings of the Fourteenth International Conference on Artificial Intelligence and Statistics, 15(15), 315 - 323
