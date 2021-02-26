@@ -1,7 +1,7 @@
 # Simple Artificial Neural Network (ANN) 
 <p align="Header">
   <a href="https://flame-engine.org">
-    <img alt="flame" width="600px" src="https://www.stonebridge.uk.com/blog/wp-content/uploads/2019/10/neuron-animation-blog.gif">
+    <img alt="flame" width="650px" src="https://www.stonebridge.uk.com/blog/wp-content/uploads/2019/10/neuron-animation-blog.gif">
   </a>
 </p>
 
