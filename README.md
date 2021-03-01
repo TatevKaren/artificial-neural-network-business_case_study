@@ -1,7 +1,7 @@
 # Simple Artificial Neural Network (ANN) 
 <p align="Header">
   <a href="https://flame-engine.org">
-    <img alt="flame" width="650px" src="https://www.stonebridge.uk.com/blog/wp-content/uploads/2019/10/neuron-animation-blog.gif">
+    <img alt="flame" width="600px" src="https://www.stonebridge.uk.com/blog/wp-content/uploads/2019/10/neuron-animation-blog.gif">
   </a>
 </p>
 
@@ -21,7 +21,7 @@ Neural networks adapt themselves to the changing input so that the network gener
 
 <p align="left">
 <img src="ANN_layers.png?raw=true"
-  alt=""width="600" height="300">
+  alt=""width="500" height="200">
 </p>
 
 
@@ -42,14 +42,14 @@ The combination of the Rectifier and Sigmoid activation functions is quite popul
 
 <p align="left">
 <img src="ANN_Case_Study_Sample_Output_1.png?raw=true"
-  alt=""width="700" height="350">
+  alt=""width="600" height="250">
 </p>
 
 **True versus Predicted values**
 
 <p align="left">
 <img src="ANN_Case_Study_Sample_Output_2.png?raw=true"
-  alt=""width="50" height="400">
+  alt=""width="50" height="300">
 </p>
 
 
