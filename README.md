@@ -7,7 +7,7 @@
 
 
 ## About the Case Study
-In this Case Study we predict the churning rate of the customers from the bank. In order to learn about bank's customers we will make use of one pf the Deep Learning techniques, the Artificial Neural Networks (ANN).From the millions of customers we have randomly selected 10K customers. We will use customer's characteristics to determine his/her probability of leaving the bank. In order to learn about bank's customers we will make use of one pf the Deep Learning techniques, the Artificial Neural Networks (ANN).
+In this Business Case Study we predict the churning rate of the customers from the bank. In order to learn about bank's customers we will make use of one pf the Deep Learning techniques, the Artificial Neural Networks (ANN).From the millions of customers we have randomly selected 10K customers. We will use customer's characteristics to determine his/her probability of leaving the bank. In order to learn about bank's customers we will make use of one pf the Deep Learning techniques, the Artificial Neural Networks (ANN).
 Moreover, we will use popular Python libraries such as Tensorflow, Keras and Machine Learning techniques such as Adam Optimizer to train the ANN model and predict the churn rates.
 
   - DATA: Customer data is stored in: Artificial_Neural_Network_Case_Study_data.csv
