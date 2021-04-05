@@ -33,7 +33,6 @@ The combination of the Rectifier and Sigmoid activation functions is quite popul
  - Cost function: Binary Cross Entropy
  - Number of epochs: 100
  - Batch size: 25
- - **ANN model training and testing:** Artificial_Neural_Network_Case_Study.py
       
 
 ## Sample outputs (screenshots)
