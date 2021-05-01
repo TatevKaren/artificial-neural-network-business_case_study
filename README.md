@@ -21,7 +21,7 @@ Neural networks adapt themselves to the changing input so that the network gener
 
 <p align="left">
 <img src="ANN_layers.png?raw=true"
-  alt=""width="500" height="300">
+  alt=""width="500" height="250">
 </p>
 
 
