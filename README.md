@@ -10,9 +10,9 @@
 In this Business Case Study we predict the churning rate of the customers from the bank. In order to learn about bank's customers we will make use of one pf the Deep Learning techniques, the Artificial Neural Networks (ANN).From the millions of customers we have randomly selected 10K customers. We will use customer's characteristics to determine his/her probability of leaving the bank. In order to learn about bank's customers we will make use of one pf the Deep Learning techniques, the Artificial Neural Networks (ANN).
 Moreover, we will use popular Python libraries such as Tensorflow, Keras and Machine Learning techniques such as Adam Optimizer to train the ANN model and predict the churn rates.
 
-  - DATA: Customer Data: <a href = "https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Network_Case_Study_data.csv">View here</a>
-  - PAPER: ANN Case Study Paper: <a href = "https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Networks_Case_Study-2.pdf"> View here</a>
-  - Python CODE: <a href = "https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Network_Case_Study.py"> View here</a>
+  - Data: <a href = "https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Network_Case_Study_data.csv">View here</a>
+  - Paper: ANN Case Study Paper: <a href = "https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Networks_Case_Study-2.pdf"> View here</a>
+  - Python Code: <a href = "https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Network_Case_Study.py"> View here</a>
   - Sample Output: <a href = "https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/ANN_Case_Study_Sample_Output_1.png">View here</a> 
   - Sample Output 2: <a href = "https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/ANN_Case_Study_Sample_Output_2.png">View here</a> 
 
